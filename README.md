@@ -19,13 +19,16 @@ Test section is where the student can assess himeself by giving a mcq test
 Results of the test will be shown once the test is over
 There will also be a time for each mcq
 
-Analysis Section
+3. Analysis Section
 Analysis section is where the user can view a graphical representation of his previous test marks
 User can also view for how many days has he used the app
+
 
 Apk Link : https://drive.google.com/file/d/1-3eIpUwmCW7KJq9HqcBlsPmE7xBt7a4L/view?usp=sharing
 
 Demo Link :https://www.youtube.com/watch?v=MW_48Tw8h1Q
+
+
 
 Technologies used:
 
