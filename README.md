@@ -32,19 +32,23 @@ Demo Link :https://www.youtube.com/watch?v=MW_48Tw8h1Q
 
 Technologies used:
 
-Restful API's
-Augmented reality
-Google Seanform
-Wikipedia Api for information
-Google APi
-Firebase
-Sql
-Dialogflow chatbot
+1.Restful API's
+2.Augmented reality
+3.Google Seanform
+4.Wikipedia Api for information
+5.Google APi
+6.Firebase
+7.Sql
+8.Dialogflow chatbot
+9.Android Studio
 
 Language :
-Java
+
+
+1.Java
 
 Screenshots:
+
 
 <img src="https://user-images.githubusercontent.com/90499826/197459661-07d41eba-970c-4de0-bbed-1d0b2b935885.jpeg" width="500" height="500">
 <img src="https://user-images.githubusercontent.com/90499826/197459730-1bc3595d-97ba-4769-81f7-4bc1656c527c.jpeg" width="500" height="500">
