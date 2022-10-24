@@ -1,5 +1,48 @@
 # CheggApp
 Chegg Hackathon Prototype
+Chegg App which is an educational app which uses technologies suc as Augemented Reality, Chatbots, Wikipedia API, Google Api,Seanform, SQL, Firebase to make education more realistic for the user
+
+Month of creation : October 2022
+
+Features :
+
+1. Study Section:
+Study Section where you have Science , Chemistry , Engineering, Maths section
+In each section there would be topic of that stream
+Each topic when clicked will open a page wherein we show information fetched from Wikipedia API and one can view the model of that topic in AR 
+The models are fetched from Firebase
+Ai enabled chatbot which helps student through mental health struggles
+Each STEM subjects will have a books section wherein one can buy/preview books which is fetched by google api
+
+2. Test Section
+Test section is where the student can assess himeself by giving a mcq test
+Results of the test will be shown once the test is over
+There will also be a time for each mcq
+
+Analysis Section
+Analysis section is where the user can view a graphical representation of his previous test marks
+User can also view for how many days has he used the app
+
+Apk Link : https://drive.google.com/file/d/1-3eIpUwmCW7KJq9HqcBlsPmE7xBt7a4L/view?usp=sharing
+
+Demo Link :https://www.youtube.com/watch?v=MW_48Tw8h1Q
+
+Technologies used:
+
+Restful API's
+Augmented reality
+Google Seanform
+Wikipedia Api for information
+Google APi
+Firebase
+Sql
+Dialogflow chatbot
+
+Language :
+Java
+
+Screenshots:
+
 <img src="https://user-images.githubusercontent.com/90499826/197459661-07d41eba-970c-4de0-bbed-1d0b2b935885.jpeg" width="500" height="500">
 <img src="https://user-images.githubusercontent.com/90499826/197459730-1bc3595d-97ba-4769-81f7-4bc1656c527c.jpeg" width="500" height="500">
 <img src="https://user-images.githubusercontent.com/90499826/197459784-008c8976-edc4-465a-b96d-c9bd81d86def.jpeg" width="500" height="500">
