@@ -1,6 +1,6 @@
 # CheggApp
 Chegg Hackathon Prototype
-![img1](https://user-images.githubusercontent.com/90499826/197459661-07d41eba-970c-4de0-bbed-1d0b2b935885.jpeg)
+![img1](https://user-images.githubusercontent.com/90499826/197459661-07d41eba-970c-4de0-bbed-1d0b2b935885.jpeg width="400" height="500")
 ![dfcd720whatsapp_image_2022_10_02_at_19_30_37](https://user-images.githubusercontent.com/90499826/197459730-1bc3595d-97ba-4769-81f7-4bc1656c527c.jpeg)
 ![e9e7f1fstudy_1](https://user-images.githubusercontent.com/90499826/197459784-008c8976-edc4-465a-b96d-c9bd81d86def.jpeg)
 ![df6fa01book2](https://user-images.githubusercontent.com/90499826/197459832-9c858587-351c-4bc1-aa57-1096171bcc52.jpeg)
